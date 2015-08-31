@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-e76837d67f70326b194f3f833f4e2c48991ae8af.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/classes-89c7e65d5dd1ed0455859906ef30fe15d2cc5394.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_1-36ab193a4073e70c8b5e4c8c4106c57df9fede0b.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/Aseo.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d377e1e758c56c64528c446b3baa19d76f3af4db">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/Aseo-db421494fb0567d88fb491bc73c886e1bab10983.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/classes-2a2cc48f48bef7f354dd6ab69e5a060cf0ffe415.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/src/main/jniLibs/pushservice-4.5.1.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="12e032c029dcede1ee7166e22eb9c458cfc5e545">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/pushservice-4.5.1.8-71dac59b9cfb4c4e092a3b0e09d0f9ff260c1e20.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b651be701cb256e3972e7c5a07119f26bb7b44a4">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_2-7e27fd93aa34fd1ec86d56633d48145098a026fe.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-b48e285af3a9fd9cfdb8dbc5118f1aa578b74da4.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SDK.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6f3cdc572ddfd37a19f1c1fdb96cda324e8a12a">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SDK-06866e8db015214654135daff676a7a1d29e7c8c.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="931ab461b91c2a2fd5c697e7f622cdca8c2b3ac5">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_3-ae7ad06d3d5a077c5db3b18ca3917138237245d9.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4688dc44ccef22b7f057301ee6abbe187a8d35ea">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/umeng_social_sdk-69804bbd3803b7d0a80af7d2037993053b283c19.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/classes-fc6113bdca0a36ed72a79a664a1753f0d3e56110.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SocialSDK_email.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3035cf2249ebc09a5b5204362a8cc0a653f9589">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SocialSDK_email-9179af265b7f456b2d0cfcebf4c537f68240b482.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2-2e11e53e68dd60c9265a6dd980154ee959e78990.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-SNAPSHOT-with-sources-60f01149cb7282b0f51db2817d1f01d1b0accde2.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/exploded-aar/KrStarTimes/expandableselector/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c12beb7dcfa647b38eefe5e2f6124df1c85c1755">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/classes-4fae57324db3f5323c5466a9084884b361b9fc7e.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/.gradle/caches/modules-2/files-2.1/org.jdom/jdom/2.0.2/d06c71e0df0ac4b94deb737718580ccce22d92e8/jdom-2.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d06c71e0df0ac4b94deb737718580ccce22d92e8">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/jdom-2.0.2-1f06b5984d585d3bc71f375d32208c3a8dde4096.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-6e08bba17537cc8da816d00c89e08c276406d8d4.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/gson-2.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/gson-2.2.1-4c26fad1a087b82d85b3e2e652cff2fc57c71c7e.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6eee0ece63ba5e74411057d09eda1a5a01ca940">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SocialSDK_Sina-759e34a99d902060893184d64d0ca551e64b132b.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1-d8212e1a6cf028608c249ffb7db3b5175d39457e.jar" />
+    </item>
+    <item
+        jar="/Users/dllo/Desktop/KrStarTimes/app/libs/Volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="/Users/dllo/Desktop/KrStarTimes/app/build/intermediates/pre-dexed/debug/Volley-18eb11fd8fd247c06c33546ed3571ffc6a3811fa.jar" />
+    </item>
+
+</items>

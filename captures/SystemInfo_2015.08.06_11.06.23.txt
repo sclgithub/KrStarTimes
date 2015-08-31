@@ -1,0 +1,230 @@
+TASK com.slm.krstartimes id=1353
+  ACTIVITY com.slm.krstartimes/.MainActivity 3f6ca672 pid=28306
+    Local FragmentActivity 954d4f1 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    Active Fragments in 356648d6:
+      #0: MainMenuFragment{12426757 #0 id=0x7f0d0072 android:switcher:2131558514:0}
+        mFragmentId=#7f0d0072 mContainerId=#7f0d0072 mTag=android:switcher:2131558514:0
+        mState=5 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=true mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=false mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=false
+        mFragmentManager=FragmentManager{356648d6 in MainActivity{954d4f1}}
+        mActivity=com.slm.krstartimes.MainActivity@954d4f1
+        mContainer=android.support.v4.view.ViewPager{2d71ef44 VFED.... ......I. 0,144-1080,1845 #7f0d0072 app:id/mainviewPager}
+        mView=android.widget.LinearLayout{1955c3b1 V.E..... ........ 0,0-1080,1701}
+        mInnerView=android.widget.LinearLayout{1955c3b1 V.E..... ........ 0,0-1080,1701}
+        Child FragmentManager{60cb244 in MainMenuFragment{12426757}}:
+          FragmentManager misc state:
+            mActivity=com.slm.krstartimes.MainActivity@954d4f1
+            mContainer=android.support.v4.app.Fragment$1@1650cf2d
+            mParent=MainMenuFragment{12426757 #0 id=0x7f0d0072 android:switcher:2131558514:0}
+            mCurState=5 mStateSaved=false mDestroyed=false
+      #1: RecommendPageFragment{9561c62 #1 id=0x7f0d0072 android:switcher:2131558514:1}
+        mFragmentId=#7f0d0072 mContainerId=#7f0d0072 mTag=android:switcher:2131558514:1
+        mState=5 mIndex=1 mWho=android:fragment:1 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=true mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{356648d6 in MainActivity{954d4f1}}
+        mActivity=com.slm.krstartimes.MainActivity@954d4f1
+        mContainer=android.support.v4.view.ViewPager{2d71ef44 VFED.... ......I. 0,144-1080,1845 #7f0d0072 app:id/mainviewPager}
+        mView=android.widget.LinearLayout{3906fc6e V.E..... ........ 1080,0-2160,1701}
+        mInnerView=android.widget.LinearLayout{3906fc6e V.E..... ........ 1080,0-2160,1701}
+        Child FragmentManager{c1c21f3 in RecommendPageFragment{9561c62}}:
+          FragmentManager misc state:
+            mActivity=com.slm.krstartimes.MainActivity@954d4f1
+            mContainer=android.support.v4.app.Fragment$1@2f44aeb0
+            mParent=RecommendPageFragment{9561c62 #1 id=0x7f0d0072 android:switcher:2131558514:1}
+            mCurState=5 mStateSaved=false mDestroyed=false
+      #2: PhoneNewsFragment{19983129 #2 id=0x7f0d0072 android:switcher:2131558514:2}
+        mFragmentId=#7f0d0072 mContainerId=#7f0d0072 mTag=android:switcher:2131558514:2
+        mState=5 mIndex=2 mWho=android:fragment:2 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=true mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=false mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=false
+        mFragmentManager=FragmentManager{356648d6 in MainActivity{954d4f1}}
+        mActivity=com.slm.krstartimes.MainActivity@954d4f1
+        mContainer=android.support.v4.view.ViewPager{2d71ef44 VFED.... ......I. 0,144-1080,1845 #7f0d0072 app:id/mainviewPager}
+        mView=android.widget.LinearLayout{2527b3c1 V.E..... ......ID 2160,0-3240,1701}
+        mInnerView=android.widget.LinearLayout{2527b3c1 V.E..... ......ID 2160,0-3240,1701}
+        Child FragmentManager{337d9cae in PhoneNewsFragment{19983129}}:
+          FragmentManager misc state:
+            mActivity=com.slm.krstartimes.MainActivity@954d4f1
+            mContainer=android.support.v4.app.Fragment$1@eccea4f
+            mParent=PhoneNewsFragment{19983129 #2 id=0x7f0d0072 android:switcher:2131558514:2}
+            mCurState=5 mStateSaved=false mDestroyed=false
+    Added Fragments:
+      #0: MainMenuFragment{12426757 #0 id=0x7f0d0072 android:switcher:2131558514:0}
+      #1: RecommendPageFragment{9561c62 #1 id=0x7f0d0072 android:switcher:2131558514:1}
+      #2: PhoneNewsFragment{19983129 #2 id=0x7f0d0072 android:switcher:2131558514:2}
+    FragmentManager misc state:
+      mActivity=com.slm.krstartimes.MainActivity@954d4f1
+      mContainer=android.support.v4.app.FragmentActivity$2@4be05dc
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{2a1067b2 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{359bb280 V.E..... ... 0,0-1080,1920}
+          android.view.ViewStub{12ae30b9 G.E..... ... 0,0-0,0 #102036e}
+          android.widget.FrameLayout{2f194cfe V.E..... ... 0,75-1080,1920 #1020002 android:id/content}
+            android.widget.FrameLayout{3a175f7b V.E..... ... 0,0-1080,1845}
+              android.widget.LinearLayout{2f2d5198 V.E..... ... 0,0-1080,1845}
+                android.support.design.widget.TabLayout{18b83df1 VFED.... ... 0,0-1080,144 #7f0d0071 app:id/tabLayout}
+                  android.support.design.widget.TabLayout$SlidingTabStrip{2b7fdd6 V.ED.... ... 0,0-1718,144}
+                    android.support.design.widget.TabLayout$TabView{12cae10d VFE...C. ... 0,0-150,144}
+                      android.widget.ImageView{2e01f8c2 G.ED.... ... 0,0-0,0}
+                      android.widget.TextView{18ae36d3 V.ED.... ... 36,45-114,98}
+                    android.support.design.widget.TabLayout$TabView{1113d210 VFE...C. .S. 150,0-378,144}
+                      android.widget.ImageView{17d18109 G.ED.... .S. 0,0-0,0}
+                      android.widget.TextView{f7adf0e V.ED.... .S. 36,45-192,98}
+                    android.support.design.widget.TabLayout$TabView{1a1b6d2f VFE...C. ... 378,0-645,144}
+                      android.widget.ImageView{1a4bff3c G.ED.... ... 0,0-0,0}
+                      android.widget.TextView{3e8824c5 V.ED.... ... 36,45-231,98}
+                    android.support.design.widget.TabLayout$TabView{1089de1a VFE...C. ... 645,0-873,144}
+                      android.widget.ImageView{2e7bad4b G.ED.... ... 0,0-0,0}
+                      android.widget.TextView{c77d328 V.ED.... ... 36,45-192,98}
+                    android.support.design.widget.TabLayout$TabView{a4b4841 VFE...C. ... 873,0-1101,144}
+                      android.widget.ImageView{3557c1e6 G.ED.... ... 0,0-0,0}
+                      android.widget.TextView{1155d327 V.ED.... ... 36,45-192,98}
+                    android.support.design.widget.TabLayout$TabView{3f0af9d4 VFE...C. ... 1101,0-1311,144}
+                      android.widget.ImageView{3dc3277d G.ED.... ... 0,0-0,0}
+                      android.widget.TextView{9ce1672 V.ED.... ... 36,45-174,98}
+                    android.support.design.widget.TabLayout$TabView{5c27ac3 VFE...C. ... 1311,0-1461,144}
+                      android.widget.ImageView{2b07df40 G.ED.... ... 0,0-0,0}
+                      android.widget.TextView{23dfbe79 V.ED.... ... 36,45-114,98}
+                    android.support.design.widget.TabLayout$TabView{3ce327be VFE...C. ... 1461,0-1718,144}
+                      android.widget.ImageView{1dc8001f G.ED.... ... 0,0-0,0}
+                      android.widget.TextView{152baf6c V.ED.... ... 36,45-221,98}
+                android.support.v4.view.ViewPager{2d71ef44 VFED.... ... 0,144-1080,1845 #7f0d0072 app:id/mainviewPager}
+                  android.widget.LinearLayout{1955c3b1 V.E..... ... 0,0-1080,1701}
+                    android.widget.ListView{370a7096 V.ED.VC. ... 0,0-1080,0 #7f0d008a app:id/page_main_list_menu}
+                  android.widget.LinearLayout{3906fc6e V.E..... ... 1080,0-2160,1701}
+                    android.widget.RelativeLayout{13f72f0f V.E..... ... 0,0-1080,600}
+                      android.support.v4.view.ViewPager{52fcb9c VFED.... ... 0,0-1080,600 #7f0d0073 app:id/viewpager}
+                    android.widget.ListView{5aa717a VFED.VC. F.. 0,600-1080,1701 #7f0d00a6 app:id/recommendListview}
+                      android.widget.LinearLayout{73147fc V.E..... ... 0,0-1080,270}
+                        android.widget.ImageView{3cd29e85 V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{31d834da V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{13c51d0b V.ED.... ... 30,30-576,83 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{1114c4a6 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{18267ee7 V.ED.... ... 0,0-421,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{10b89a94 V.ED.... ... 421,0-483,38}
+                            android.widget.TextView{2b193d V.ED.... ... 498,0-586,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{36388532 V.ED.... ... 586,0-648,38}
+                            android.widget.TextView{5522283 V.ED.... ... 663,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{8350c39 V.E..... ... 0,272-1080,542}
+                        android.widget.ImageView{1565c27e V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{90a63df V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{2154a82c V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{3a5132f5 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{3097888a V.ED.... ... 0,0-408,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{db5efb V.ED.... ... 408,0-470,38}
+                            android.widget.TextView{257a1b18 V.ED.... ... 485,0-572,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{35cf0971 V.ED.... ... 572,0-634,38}
+                            android.widget.TextView{3c6da356 V.ED.... ... 649,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{1981d0c4 V.E..... ... 0,544-1080,814}
+                        android.widget.ImageView{2579cbad V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{5b89ee2 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{34d0b273 V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{b2d3530 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{1b9475a9 V.ED.... ... 0,0-408,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{23c5c72e V.ED.... ... 408,0-470,38}
+                            android.widget.TextView{397a02cf V.ED.... ... 485,0-572,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{20e8745c V.ED.... ... 572,0-634,38}
+                            android.widget.TextView{3195c365 V.ED.... ... 649,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{31bdfceb V.E..... ... 0,816-1080,1086}
+                        android.widget.ImageView{19b67a48 V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{27a430e1 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{16d38e06 V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{bfd7cc7 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{1fdcf2f4 V.ED.... ... 0,0-421,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{3fd1fa1d V.ED.... ... 421,0-483,38}
+                            android.widget.TextView{360a8492 V.ED.... ... 498,0-586,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{11cb1e63 V.ED.... ... 586,0-648,38}
+                            android.widget.TextView{1a504a60 V.ED.... ... 663,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{3c4857de V.E..... ... 0,1088-1080,1358}
+                        android.widget.ImageView{9473dbf V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{28dfac8c V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{e174fd5 V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{2dfe13ea V.E..... ... 30,202-750,240}
+                            android.widget.TextView{103bf6db V.ED.... ... 0,0-408,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{37210578 V.ED.... ... 408,0-470,38}
+                            android.widget.TextView{3b8a1451 V.ED.... ... 485,0-572,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{33a184b6 V.ED.... ... 572,0-634,38}
+                            android.widget.TextView{cf925b7 V.ED.... ... 649,0-720,38 #7f0d0088 app:id/commentCount}
+                  android.widget.LinearLayout{2527b3c1 V.E..... ... 2160,0-3240,1701}
+                    android.widget.ListView{32f28766 VFED.VC. ... 0,0-1080,1701 #7f0d00a5 app:id/phoneListview}
+                      android.widget.LinearLayout{1954fb54 V.E..... ... 0,0-1080,270}
+                        android.widget.ImageView{24bacafd V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{a0fb3f2 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{30af8a43 V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{29b078c0 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{296e19f9 V.ED.... ... 0,0-395,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{3f611d3e V.ED.... ... 395,0-457,38}
+                            android.widget.TextView{2f36879f V.ED.... ... 472,0-573,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{3b8460ec V.ED.... ... 573,0-635,38}
+                            android.widget.TextView{f6d5cb5 V.ED.... ... 650,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{605febb V.E..... ... 0,272-1080,542}
+                        android.widget.ImageView{23cc9fd8 V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{fe40f31 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{31a19616 V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{88bcb97 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{957e184 V.ED.... ... 0,0-395,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{31396d6d V.ED.... ... 395,0-457,38}
+                            android.widget.TextView{418fda2 V.ED.... ... 472,0-573,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{29378a33 V.ED.... ... 573,0-635,38}
+                            android.widget.TextView{f3391f0 V.ED.... ... 650,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{fad51ee V.E..... ... 0,544-1080,814}
+                        android.widget.ImageView{7d6968f V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{39d7dd1c V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{5efdd25 V.ED.... ... 30,30-650,83 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{c209efa V.E..... ... 30,202-750,240}
+                            android.widget.TextView{9b00cab V.ED.... ... 0,0-395,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{3b13af08 V.ED.... ... 395,0-457,38}
+                            android.widget.TextView{ee626a1 V.ED.... ... 472,0-573,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{3949b0c6 V.ED.... ... 573,0-635,38}
+                            android.widget.TextView{1760c887 V.ED.... ... 650,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{169d8bdd V.E..... ... 0,816-1080,1086}
+                        android.widget.ImageView{2ba01352 V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{1c776623 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{22075720 V.ED.... ... 30,30-625,83 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{3c6c08d9 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{1588129e V.ED.... ... 0,0-395,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{24d0417f V.ED.... ... 395,0-457,38}
+                            android.widget.TextView{7dac54c V.ED.... ... 472,0-573,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{250b5995 V.ED.... ... 573,0-635,38}
+                            android.widget.TextView{195ebaaa V.ED.... ... 650,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{2b94ea38 V.E..... ... 0,1088-1080,1358}
+                        android.widget.ImageView{d14fa11 V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{3045d776 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{30a6e177 V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{28ca71e4 V.E..... ... 30,202-750,240}
+                            android.widget.TextView{73e264d V.ED.... ... 0,0-395,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{31aff502 V.ED.... ... 395,0-457,38}
+                            android.widget.TextView{61e1e13 V.ED.... ... 472,0-573,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{1daec850 V.ED.... ... 573,0-635,38}
+                            android.widget.TextView{2253da49 V.ED.... ... 650,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{dc2886f V.E..... ... 0,1360-1080,1630}
+                        android.widget.ImageView{1640197c V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{32f6d205 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{1bf3225a V.ED.... ... 30,30-750,129 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{26993c8b V.E..... ... 30,202-750,240}
+                            android.widget.TextView{3e335168 V.ED.... ... 0,0-392,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{3d178981 V.ED.... ... 392,0-454,38}
+                            android.widget.TextView{9b10a26 V.ED.... ... 469,0-572,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{10dd1667 V.ED.... ... 572,0-634,38}
+                            android.widget.TextView{5a01c14 V.ED.... ... 649,0-720,38 #7f0d0088 app:id/commentCount}
+                      android.widget.LinearLayout{2013a2b2 V.E..... ... 0,1632-1080,1902}
+                        android.widget.ImageView{2b9ab203 V.ED.... ... 30,30-240,240 #7f0d0085 app:id/title_picture}
+                        android.widget.RelativeLayout{246ce580 V.E..... ... 270,0-1050,270}
+                          android.widget.TextView{314ae7b9 V.ED.... ... 30,30-657,83 #7f0d004e app:id/title}
+                          android.widget.LinearLayout{19537fe V.E..... ... 30,202-750,240}
+                            android.widget.TextView{300c6b5f V.ED.... ... 0,0-395,38 #7f0d0086 app:id/time}
+                            android.widget.TextView{287ad9ac V.ED.... ... 395,0-457,38}
+                            android.widget.TextView{31a94675 V.ED.... ... 472,0-573,38 #7f0d0087 app:id/hitCount}
+                            android.widget.TextView{2c08d60a V.ED.... ... 573,0-635,38}
+                            android.widget.TextView{6b65e7b V.ED.... ... 650,0-720,38 #7f0d0088 app:id/commentCount}
+              android.widget.RelativeLayout{2301c82d V.E..... ... 24,24-1056,1821}
+                android.support.design.widget.FloatingActionButton{328e2162 V.ED..C. ... 864,1629-1032,1797}
+        android.view.View{323c0588 V.ED.... ... 0,0-1080,75 #102002f android:id/statusBarBackground}
